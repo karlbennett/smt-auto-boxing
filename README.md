@@ -12,4 +12,6 @@ int[][] primativeArray = {
 };
 
 Integer[][] objectArray = AutoBoxing.deepAutoBox(Integer[][].class, primativeArray);
+
+primativeArray = AutoBoxing.deepAutoBox(int[][].class, objectArray);
 ```

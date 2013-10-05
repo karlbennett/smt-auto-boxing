@@ -1,4 +1,4 @@
-auto-boxing
+smt-auto-boxing
 ===========
 
 A library to help with boxing and unboxing Java arrays.

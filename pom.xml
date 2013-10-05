@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>shiver.me.timbers</groupId>
-    <artifactId>auto-boxing</artifactId>
+    <artifactId>smt-auto-boxing</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
